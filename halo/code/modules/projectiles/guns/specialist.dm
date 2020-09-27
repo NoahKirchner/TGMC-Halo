@@ -1,7 +1,7 @@
 
+//Halo//
 
-//-------------------------------------------------------
-//SPNKR
+	//SPNKR
 
 /obj/item/weapon/gun/launcher/rocket/m41spnkr
 	name = "M41 SPNKR"
